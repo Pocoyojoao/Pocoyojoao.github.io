@@ -3,6 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A História de Tuba</title>
+</head>
+<body>
+    <h1>A História de Tuba</h1>
+    <ul>
+        <li>Tuba, um supertubarão com dentes brilhantes e afiados, vivia em um oceano repleto de criaturas curiosas e vibrantes, onde todos admiravam seu sorriso radiante.</li>
+        <li>Todos os dias, ele dedicava um tempo especial para escovar seus dentes com uma escova gigante feita de algas marinhas, misturada com uma pasta de coral que ele mesmo preparava.</li>
+        <li>Seus amigos, maravilhados com a dedicação de Tuba, se reuniam ao redor de sua caverna subaquática para assistir ao espetáculo de limpeza dental, enquanto dançavam e cantavam músicas alegres.</li>
+        <li>Um dia, Tuba descobriu que sua escovação diária estava não apenas mantendo longe as temidas placas de corais malignos, mas também ajudando a purificar a água ao redor, tornando-a mais clara e fresca.</li>
+        <li>Com o tempo, o oceano inteiro se beneficiou das boas práticas de Tuba, e ele virou um herói local, promovendo a higiene dental e a preservação ambiental entre todos os habitantes marinhos, realizando campanhas e workshops sobre cuidados dentários e proteção do habitat.</li>
+    </ul>
+</body>
+</html><!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Brawl Stars - Site Pessoal</title>
     <style>
         body {
