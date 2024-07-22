@@ -25,6 +25,143 @@
             text-decoration: none;
             color: #0073e6;
         }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #0073e6;
+            color: white;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .character {
+            margin-bottom: 20px;
+        }
+        .video {
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Brawl Stars</h1>
+</header>
+
+<nav>
+    <a href="#home">Início</a>
+    <a href="#about">Sobre o Jogo</a>
+    <a href="#characters">Personagens</a>
+    <a href="#tips">Dicas e Truques</a>
+    <a href="#contact">Contato</a>
+</nav>
+
+<section id="home">
+    <h2>Bem-vindo ao Mundo de Brawl Stars!</h2>
+    <p>Descubra tudo sobre o emocionante jogo de combate da Supercell.</p>
+</section>
+
+<section id="about">
+    <h2>Sobre o Jogo</h2>
+    <p>Brawl Stars é um jogo de combate multiplayer onde você luta contra outros jogadores em diversos modos de jogo.</p>
+</section>
+
+<section id="characters">
+    <h2>Personagens</h2>
+    <p>Conheça alguns dos principais personagens de Brawl Stars:</p>
+    
+    <!-- Personagem 1 -->
+    <div class="character">
+        <h3>Shelly</h3>
+        <p>Raridade: Comum</p>
+        <p>Descrição: A pistoleira com uma espingarda poderosa.</p>
+        <p><strong>Super:</strong> Super Shell - dispara uma poderosa onda de choque que destrói obstáculos e empurra inimigos.</p>
+        <p><strong>Star Powers:</strong> Shell Shock, Band-Aid</p>
+        <p><strong>Skins:</strong> Bandita Shelly, PSG Shelly, Shelly Bruxa</p>
+        <p><strong>Gadgets:</strong> Fast Forward, Clay Pigeons</p>
+        <div class="video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/cg47YiANXy4" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+    
+    <!-- Personagem 2 -->
+    <div class="character">
+        <h3>Colt</h3>
+        <p>Raridade: Raro</p>
+        <p>Descrição: Um atirador rápido com pistolas duplas.</p>
+        <p><strong>Super:</strong> Bullet Storm - dispara uma série de balas em linha reta, causando dano massivo.</p>
+        <p><strong>Star Powers:</strong> Slick Boots, Magnum Special</p>
+        <p><strong>Skins:</strong> Rockabilly Colt, Corsair Colt, Challenger Colt</p>
+        <p><strong>Gadgets:</strong> Speedloader, Silver Bullet</p>
+        <div class="video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/cg47YiANXy4" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+
+    <!-- Personagem 3 -->
+    <div class="character">
+        <h3>Jessie</h3>
+        <p>Raridade: Super Raro</p>
+        <p>Descrição: Engenheira que constrói torretas para atacar inimigos.</p>
+        <p><strong>Super:</strong> Scrappy! - Despliega una torreta que dispara a los enemigos cercanos.</p>
+        <p><strong>Star Powers:</strong> Energize, Shocky</p>
+        <p><strong>Skins:</strong> Dragon Knight Jessie, Summer Jessie, Red Dragon Jessie</p>
+        <p><strong>Gadgets:</strong> Spark Plug, Recoil Spring</p>
+        <div class="video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/9eB2W4923rc" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+
+    <!-- Adicione mais personagens aqui -->
+</section>
+
+<section id="tips">
+    <h2>Dicas e Truques</h2>
+    <p>Aprenda estratégias e dicas para se tornar um melhor jogador de Brawl Stars:</p>
+    <p>- Use o terreno a seu favor para se proteger dos ataques inimigos.</p>
+    <p>- Trabalhe em equipe e comunique-se com seus colegas de time.</p>
+    <p>- Experimente diferentes personagens para encontrar o que melhor se adapta ao seu estilo de jogo.</p>
+</section>
+
+<section id="contact">
+    <h2>Contato</h2>
+    <p>Para mais informações, entre em contato conosco pelo email: brawlstars@exemplo.com</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Brawl Stars Fan Page. Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brawl Stars - Site Pessoal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            text-align: center;
+        }
+        header {
+            background-color: #0073e6;
+            color: white;
+            padding: 20px;
+        }
+        nav {
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #0073e6;
+        }
         .tab-content {
             display: none;
             padding: 20px;
