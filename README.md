@@ -87,6 +87,94 @@
     </footer>
 </body>
 </html><!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brawl Stars - Guia Completo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #1c1c1c;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .section {
+            background: #fff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #1c1c1c;
+            color: #fff;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Guia Completo de Brawl Stars</h1>
+    </header>
+    <div class="container">
+        <section class="section">
+            <h2>Sobre o Jogo</h2>
+            <p>Brawl Stars é um jogo de batalha em arena desenvolvido pela Supercell. Os jogadores competem em vários modos de jogo para ganhar troféus e melhorar suas habilidades.</p>
+        </section>
+
+        <section class="section">
+            <h2>Personagens</h2>
+            <p>Os personagens em Brawl Stars são conhecidos como Brawlers. Cada um possui habilidades únicas e estilos de combate. Alguns dos Brawlers populares incluem:</p>
+            <ul>
+                <li>Shelly - Uma Brawler de longo alcance com uma poderosa espingarda.</li>
+                <li>Colt - Um atirador com pistolas duplas.</li>
+                <li>Poco - Um curandeiro com uma guitarra que pode curar aliados.</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Modos de Jogo</h2>
+            <p>O Brawl Stars oferece vários modos de jogo, incluindo:</p>
+            <ul>
+                <li>Showdown - Um modo de batalha real onde o último sobrevivente vence.</li>
+                <li>Gem Grab - Equipes competem para coletar e manter gemas.</li>
+                <li>Heist - As equipes tentam roubar o cofre adversário enquanto defendem o seu.</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Dicas e Estratégias</h2>
+            <p>Para melhorar suas habilidades em Brawl Stars, considere estas dicas:</p>
+            <ul>
+                <li>Conheça as habilidades de cada Brawler e como elas podem complementar a equipe.</li>
+                <li>Comunique-se com seus colegas de equipe para coordenar estratégias.</li>
+                <li>Jogue regularmente para ganhar experiência e aprimorar suas habilidades.</li>
+            </ul>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Guia Completo de Brawl Stars. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html><!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
